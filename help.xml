@@ -9,5 +9,5 @@
 
   <feed-for interface="http://0install.net/tests/ebox-help.xml"/>
 
-  <implementation id="." released="2010-08-07" version="0.1"/>
+  <implementation id="." version="0.1-post"/>
 </interface>
