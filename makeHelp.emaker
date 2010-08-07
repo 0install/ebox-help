@@ -54,4 +54,5 @@ def makeHelp(shell, msg) {
 
 	swtGrid`$panel: $text.X.Y
 			$spacer.X $close`
+	panel.layout()
 }
