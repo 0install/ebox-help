@@ -1,8 +1,12 @@
 <?xml version="1.0" ?>
 <interface xmlns="http://zero-install.sourceforge.net/2004/injector/interface">
-  <name>help</name>
-  <summary>E help viewer</summary>
+  <name>ebox-help</name>
+  <summary>EBox help viewer</summary>
   <description>
-</description>
+    This library can be used by programs to display simple help text. It is part of the EBox sandbox proof-of-concept examples.
+  </description>
+
+  <feed-for interface='http://0install.net/tests/ebox-help.xml'/>
+
   <implementation id="." version="0.1-pre"/>
 </interface>
